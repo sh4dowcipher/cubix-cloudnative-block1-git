@@ -1,4 +1,7 @@
 Hello, here we will play a bit with Git!
 Now, we are playing :)
 Most pedig a GitHub weboldaláról szerkesztjük
+
+This is coming from the new branch
 We changed this from the main branch
+
